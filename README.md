@@ -11,10 +11,23 @@ This repository provides structured notebooks and solved examples for the course
 
 ### 🔹 UNIT I: Fundamental Calculations
 - Base and derived units
+- [Unit Convention, Units, and Dimensions in Scientific Analysis](https://youtu.be/cydXka-tAFs)
+- [Unit Conversion](https://youtu.be/C3kWuZvGJnY)
+- [Pressure units ](https://youtube.com/shorts/Gl6jF6qVjJI)
+- [Mass Volume Density](https://youtube.com/shorts/KDVL41Ezjo8)
+- [Mole Concept: Mole, Avogadro’s Number, Molar Mass and Mole fraction](https://youtu.be/AAJ5wX1OxAI)
+- [Mole fraction and Mass Fraction](https://youtube.com/shorts/goZPLNAgc-A)
+- [Mole Concept Mole fraction and Mass Fraction](https://youtube.com/shorts/KBGR-0IbGgY)
+- [Pressure and Hydrostatic Head](https://youtube.com/shorts/ue5FoZ0nODw)
+- [Average Molecular weight](https://youtube.com/shorts/_pTQgB4TgDQ)
+- [Mass Flow rate and Volumetric Flow rate](https://youtube.com/shorts/J6x3LVGGKnk)
 - Composition of mixtures and solutions
 - Ideal gas law applications (P, V, T calculations)
 - Partial pressure and component volume
 - Real gas calculations using compressibility
+- [R = Universal gas Constant](https://youtu.be/LiU3MhMUkJ4)
+- [Universal Gas Constant (R)](https://youtube.com/shorts/J6x3LVGGKnk)
+- [Density Specific gravity, volume](https://youtube.com/shorts/Hx1ohC3dNjc)
 
 📁 Folder: `notebooks/unit1_fundamental/`
 
@@ -25,6 +38,8 @@ This repository provides structured notebooks and solved examples for the course
 - Balances on unit operations: distillation, drying, crystallization, evaporation
 - Material balance with chemical reactions
 - Limiting/excess reactants
+- [Limiting Reactant,Excess Reactant, Fractional Conversion , Extent of Reaction](https://youtube.com/shorts/sk172XWnRC8)
+- [General Balance Equation](https://youtube.com/shorts/u12DSjPhT5g)
 - Recycle, bypass, purge
 - Unsteady-state material balances
 
@@ -62,6 +77,8 @@ This repository provides structured notebooks and solved examples for the course
 - Adiabatic flame temperature
 - Sulfur combustion problems
 - Introduction to process simulations in Python
+- [Process calculation: Combustion reaction](https://youtu.be/AefGsLRT_WU)
+- [Combustion: Mass Balance: Process Calculation:](https://youtu.be/AefGsLRT_WU)
 
 📁 Folder: `notebooks/unit5_combustion_simulation/`
 
