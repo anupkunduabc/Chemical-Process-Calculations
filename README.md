@@ -21,6 +21,9 @@ This repository provides structured notebooks and solved examples for the course
 - [Pressure and Hydrostatic Head](https://youtube.com/shorts/ue5FoZ0nODw)
 - [Average Molecular weight](https://youtube.com/shorts/_pTQgB4TgDQ)
 - [Mass Flow rate and Volumetric Flow rate](https://youtube.com/shorts/J6x3LVGGKnk)
+- [Application of Ideal gas law: Volume calculation  40 lb of N2 at a pressure of 750 mmHg and  80 degF](https://youtu.be/1XqPPJ9kF2Q)
+- [Gas has the following composition with mole % at 120°F and 13.8 psi N2, CH4, and C2H6 with 2%, 79%, and 19% respectively. Questions: What is the partial pressure of each component? What is the volume of each component if the total volume is 2 ft3? Calculate the mole fraction, volume fraction, and mass fraction of each component.](https://youtu.be/5HgPFVDBmOo)
+- [Specific Gravity Calculation Using Ideal gas Law Determine the specific gravity of N2 at 100◦ F and 740 mm Hg compared to air at standard conditions of 32◦ F and 760 mm Hg.](https://youtu.be/dP-a7AYTV_M)
 - Composition of mixtures and solutions
 - Ideal gas law applications (P, V, T calculations)
 - Partial pressure and component volume
