@@ -6,8 +6,9 @@ This repository provides structured notebooks and solved examples for the course
 📺 YouTube: [Chemical Engineering A](https://www.youtube.com/@chemicalengineeringA)
 
 ## 📚 GATE Chemical Engineering Syllabus: Process Calculations
-- Steady and unsteady state mass and energy balances (multiphase, multicomponent, reacting/non-reacting)
-- Tie components, recycle, bypass, purge
+Steady and unsteady state mass and energy balances including multiphase, multi-component, 
+reacting and non-reacting systems. Use of tie components; recycle, bypass and purge calculations; 
+Gibb’s phase rule and degree of freedom analysis.
 
 
 ## 🧮 Course Topics
