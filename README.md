@@ -43,6 +43,7 @@ This repository provides structured notebooks and solved examples for the course
 - Limiting/excess reactants
 - [Limiting Reactant,Excess Reactant, Fractional Conversion , Extent of Reaction](https://youtube.com/shorts/sk172XWnRC8)
 - [General Balance Equation](https://youtube.com/shorts/u12DSjPhT5g)
+- [Numerical on Limiting and Excess Reactants & Extent of Reaction](https://youtu.be/xICWpJgqCfw)
 - Recycle, bypass, purge
 - Unsteady-state material balances
 
@@ -52,6 +53,7 @@ This repository provides structured notebooks and solved examples for the course
 
 ### 🔹 UNIT III: Psychrometry
 - Humidity and saturation definitions
+- [Psychrometric Chart : How to Read a Psychrometric Chart ](https://youtu.be/jncmqD5XWJM)
 - Psychrometric charts for air-water systems
 - Applications in condensation and drying
 - Antoine & Clausius-Clapeyron equations
