@@ -15,6 +15,9 @@ This repository provides structured notebooks and solved examples for the course
 - [Unit Conversion](https://youtu.be/C3kWuZvGJnY)
 - [Pressure units ](https://youtube.com/shorts/Gl6jF6qVjJI)
 - [Mass Volume Density](https://youtube.com/shorts/KDVL41Ezjo8)
+- [Mass and Volumetric Flow Rate Calculations](https://youtu.be/b7J2Edj93go)
+- [Exploring Mass, Volume, Specific Gravity, and Density: Core Concepts in Material Properties](https://youtu.be/B1mgZPW4UH8)
+- 
 - [Mole Concept: Mole, Avogadro’s Number, Molar Mass and Mole fraction](https://youtu.be/AAJ5wX1OxAI)
 - [Mole fraction and Mass Fraction](https://youtube.com/shorts/goZPLNAgc-A)
 - [Mole Concept Mole fraction and Mass Fraction](https://youtube.com/shorts/KBGR-0IbGgY)
@@ -26,7 +29,13 @@ This repository provides structured notebooks and solved examples for the course
 - [Specific Gravity Calculation Using Ideal gas Law Determine the specific gravity of N2 at 100◦ F and 740 mm Hg compared to air at standard conditions of 32◦ F and 760 mm Hg.](https://youtu.be/dP-a7AYTV_M)
 - Composition of mixtures and solutions
 - Ideal gas law applications (P, V, T calculations)
+- [Partial Pressure and the Ideal Gas Law](https://youtu.be/G-XeBFHpnB0)
+- [Dalton's Law, Amagat's Law, and van der Waals Equation](https://youtu.be/X4qLdvV4rAk)
+- [Gas Mixtures: Average Molecular Weight, Raoult's Law, and Henry's Law](https://youtu.be/2z8l4OgRjtk)
+- [Fundamental Chemical Calculations: Density, Molality, Volume, Normality, and Conversion Metrics](https://youtu.be/Ld97JjiClL8)
+- 
 - Partial pressure and component volume
+- [Partial Pressure and Total Pressure  for mixing gas](https://youtu.be/2lWFwmIcihM)
 - Real gas calculations using compressibility
 - [R = Universal gas Constant](https://youtu.be/LiU3MhMUkJ4)
 - [Universal Gas Constant (R)](https://youtube.com/shorts/J6x3LVGGKnk)
@@ -38,9 +47,16 @@ This repository provides structured notebooks and solved examples for the course
 
 ### 🔹 UNIT II: Material Balance
 - Stoichiometric principles
+- [Understanding Chemical Reaction](https://youtu.be/NeR4-gUrzco)
+- [Stoichiometry and Chemical Equations: mass relationships between the reactants and products](https://youtu.be/IGAzXR5hflE)
 - Balances on unit operations: distillation, drying, crystallization, evaporation
 - Material balance with chemical reactions
-- Limiting/excess reactants
+- [Mass Balance Equation in Chemical Processes](https://youtu.be/CvMYo0CftOg)
+- [Process calculation: Ammonia Oxidation Process:](https://youtu.be/A7caihbdPWE)
+- [Example of Steady State Mass balance Three Reactors System](https://youtu.be/pIjmFIol7TI)
+- [Limiting/excess reactants](https://youtu.be/xICWpJgqCfw)
+- [Limiting and Excess Reactants in Chemical Reactions](https://youtu.be/gT38RXlr25I)
+- [Numerical on Limiting and Excess Reactant](https://youtu.be/k68-OJIbylY)
 - [Limiting Reactant,Excess Reactant, Fractional Conversion , Extent of Reaction](https://youtube.com/shorts/sk172XWnRC8)
 - [General Balance Equation](https://youtube.com/shorts/u12DSjPhT5g)
 - [Numerical on Limiting and Excess Reactants & Extent of Reaction](https://youtu.be/xICWpJgqCfw)
