@@ -14,7 +14,7 @@ Gibb’s phase rule and degree of freedom analysis.
 ## 🧮 Course Topics
 
 ### 🔹 UNIT I: Fundamental Calculations
-- Base and derived units
+- [Mastering the Fundamentals: Unit Convention, Units, and Dimensions in Scientific Analysis](https://youtu.be/cydXka-tAFs)
 - [Base units ](https://youtube.com/shorts/NbYM_TmnVwY)
 - [Unit Convention, Units, and Dimensions in Scientific Analysis](https://youtu.be/cydXka-tAFs)
 - [Unit Conversion](https://youtu.be/C3kWuZvGJnY)
