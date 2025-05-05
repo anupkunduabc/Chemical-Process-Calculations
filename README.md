@@ -81,6 +81,7 @@ Gibb’s phase rule and degree of freedom analysis.
 - Psychrometric charts for air-water systems
 - Applications in condensation and drying
 - Antoine & Clausius-Clapeyron equations
+- [Antoine Equation - Vapor Pressure Calculation](https://youtu.be/nlMChcnHWZo)
 - Vapor-liquid equilibrium concepts
 
 📁 Folder: `notebooks/unit3_psychrometry/`
