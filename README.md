@@ -1,4 +1,4 @@
-# 📘 Material and Energy Balance – Chemical Engineering
+# 📘 Chemical-Process-Calculations  – Chemical Engineering
 
 This repository provides structured notebooks and solved examples for the course **Material and Energy Balance**, organized unit-wise. It includes Python-based Jupyter notebooks, visualizations, and simulation examples for practical understanding of core chemical engineering calculations.
 
@@ -51,10 +51,6 @@ Gibb’s phase rule and degree of freedom analysis.
 - [R = Universal gas Constant](https://youtu.be/LiU3MhMUkJ4)
 - [Universal Gas Constant (R)](https://youtube.com/shorts/J6x3LVGGKnk)
 - [Density Specific gravity, volume](https://youtube.com/shorts/Hx1ohC3dNjc)
-
-📁 Folder: `notebooks/unit1_fundamental/`
-
----
 
 ### 🔹 UNIT II: Material Balance
 - Stoichiometric principles
