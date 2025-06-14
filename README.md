@@ -16,6 +16,7 @@ Gibb’s phase rule and degree of freedom analysis.
 ### 🔹 UNIT I: Fundamental Calculations
 - [Mastering the Fundamentals: Unit Convention, Units, and Dimensions in Scientific Analysis](https://youtu.be/cydXka-tAFs)
 - [Base units ](https://youtube.com/shorts/NbYM_TmnVwY)
+- [Base units and derived Units](https://youtu.be/-R-oJMlzFbc)
 - [Unit Convention, Units, and Dimensions in Scientific Analysis](https://youtu.be/cydXka-tAFs)
 - [Unit Conversion](https://youtu.be/C3kWuZvGJnY)
 - [Pressure units ](https://youtube.com/shorts/Gl6jF6qVjJI)
@@ -38,6 +39,7 @@ Gibb’s phase rule and degree of freedom analysis.
 - [Specific Gravity Calculation Using Ideal gas Law Determine the specific gravity of N2 at 100◦ F and 740 mm Hg compared to air at standard conditions of 32◦ F and 760 mm Hg.](https://youtu.be/dP-a7AYTV_M)
 - [Composition of mixtures and solutions](https://youtu.be/GQR9wGE2jnc)
 - [Ideal gas law applications (P, V, T calculations)](https://youtu.be/cZxqWMyNaIw)
+- [Dalton's Law and Partial Pressures calculation](https://youtu.be/pPG5zNxIZWY)
 - [Ideal gas law applications (P, V, T calculations)](https://youtu.be/J6Kni05eXgM)
 - [Partial Pressure and the Ideal Gas Law](https://youtu.be/G-XeBFHpnB0)
 - [Dalton's Law, Amagat's Law, and van der Waals Equation](https://youtu.be/X4qLdvV4rAk)
@@ -45,7 +47,7 @@ Gibb’s phase rule and degree of freedom analysis.
 - [Fundamental Chemical Calculations: Density, Molality, Volume, Normality, and Conversion Metrics](https://youtu.be/Ld97JjiClL8)
 - [Partial pressure and component volume](https://youtu.be/pPG5zNxIZWY)
 - [Partial Pressure and Total Pressure  for mixing gas](https://youtu.be/2lWFwmIcihM)
-- Real gas calculations using compressibility
+- [Real gas calculations using compressibility](https://youtu.be/oN4VDv5EQvY)
 - [R = Universal gas Constant](https://youtu.be/LiU3MhMUkJ4)
 - [Universal Gas Constant (R)](https://youtube.com/shorts/J6x3LVGGKnk)
 - [Density Specific gravity, volume](https://youtube.com/shorts/Hx1ohC3dNjc)
