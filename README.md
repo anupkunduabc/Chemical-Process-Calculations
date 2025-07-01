@@ -53,11 +53,13 @@ Gibb’s phase rule and degree of freedom analysis.
 - [Density Specific gravity, volume](https://youtube.com/shorts/Hx1ohC3dNjc)
 
 ### 🔹 UNIT II: Material Balance
-- Stoichiometric principles
+- [Stoichiometric Principles in Chemical Processes](https://youtu.be/WSpvTEkP85o)
 - [Understanding Chemical Reaction](https://youtu.be/NeR4-gUrzco)
 - [Stoichiometry and Chemical Equations: mass relationships between the reactants and products](https://youtu.be/IGAzXR5hflE)
+- [Distillation Material Balances](https://youtu.be/EojcJqb65-E)
 - Balances on unit operations: distillation, drying, crystallization, evaporation
 - Material balance with chemical reactions
+- [Limiting Reagent & Theoretical Yield](https://youtu.be/U-c2nhzY_F0)
 - [Mass Balance Equation in Chemical Processes](https://youtu.be/CvMYo0CftOg)
 - [Process calculation: Ammonia Oxidation Process:](https://youtu.be/A7caihbdPWE)
 - [Example of Steady State Mass balance Three Reactors System](https://youtu.be/pIjmFIol7TI)
